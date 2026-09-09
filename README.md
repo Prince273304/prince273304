@@ -44,7 +44,7 @@ I'm a passionate developer who loves building <b>useful, scalable and beautiful 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> 
 
-<a href="mailto:YOUR_EMAIL"> 
+<a href="mailto:pc389680@gmail.com"> 
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> 
 
