@@ -1,36 +1,34 @@
 <h1 align="center">Hi 👋, I'm Prince Chaudhary</h1>
 
-<h3 align="center">💻 Developer | 🐍 Python Learner | 🤖 AI Enthusiast</h3>
+<h3 align="center">
+Developer | Problem Solver | AI & ML Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=650&lines=Python+Developer+in+Progress;Web+Development+Enthusiast;Learning+AI+%26+Machine+Learning;Building+My+AI+Assistant;Learning+Something+New+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New" />
 </p>
 
 ---
 
 <h3>✦ About Me</h3>
 
-Hi, I'm **Prince Chaudhary** 👋
+Hi, I'm **Prince Chaudhary**, a passionate developer who loves building useful, creative and real-world applications.
 
-I'm a passionate developer who enjoys learning programming, building projects and exploring new technologies.
+I enjoy learning new technologies, solving problems through code and exploring how **Artificial Intelligence** can be used to make applications smarter and more useful.
 
-Currently, I'm focusing on **Python, Web Development, Artificial Intelligence and Machine Learning**. I love turning my ideas into practical projects and improving my coding skills by working on real-world applications.
+╰┈➤ 🔭 Currently working on: **AI Assistant**
 
-╰┈➤ 🔭 Currently working on: **AI Chat Assistant**
+╰┈➤ 🌱 Currently learning: **Artificial Intelligence & Machine Learning**
 
-╰┈➤ 🌱 Currently learning: **Python, AI & Machine Learning**
+╰┈➤ 💻 Interested in: **Python, Java, Web Development & AI**
 
-╰┈➤ 💻 Interested in: **Web Development & Software Development**
+╰┈➤ 🎯 Goal: **To become a skilled Full Stack & AI Developer**
 
-╰┈➤ 🗄️ Working with: **MySQL**
-
-╰┈➤ 🎯 Goal: **Become a skilled Full Stack & AI Developer**
-
-╰┈➤ ⚡ Fun fact: **I enjoy learning by building projects.**
+╰┈➤ ⚡ Fun fact: **I love turning ideas into real-world projects.**
 
 ---
 
-<h3>✦ My Tech Stack</h3>
+<h3>✦ Tech Stack</h3>
 
 <p align="center">
 
@@ -40,14 +38,19 @@ Currently, I'm focusing on **Python, Web Development, Artificial Intelligence an
 
 ---
 
-<h3>✦ Currently Learning</h3>
+<h3>✦ What I'm Learning</h3>
 
 <p align="center">
 
-🐍 <b>Python</b>   •  
-🤖 <b>Artificial Intelligence</b>   •  
-🧠 <b>Machine Learning</b>   •  
-🌐 <b>Full Stack Development</b>
+<img src="https://skillicons.dev/icons?i=python,java,js,mysql,git,github&perline=6" />
+
+</p>
+
+<p align="center">
+
+🚀 Artificial Intelligence &nbsp; | &nbsp;
+🤖 Machine Learning &nbsp; | &nbsp;
+🌐 Full Stack Development
 
 </p>
 
@@ -55,38 +58,17 @@ Currently, I'm focusing on **Python, Web Development, Artificial Intelligence an
 
 <h3>✦ Featured Project</h3>
 
-<h3>🤖 AI Chat Assistant</h3>
+### 🤖 AI Assistant
 
-I'm currently building a **modern AI Chat Assistant** with a clean and responsive interface.
+A modern AI-powered chat assistant designed to interact with users and provide intelligent responses.
 
-The project focuses on creating an interactive chat experience with AI and includes features such as text conversations and image uploading.
-
-<b>Technologies:</b>
-
-* HTML
-* CSS
-* JavaScript
-* Gemini API
-* Markdown
-* Image Upload
-
----
-
-<h3>✦ My Learning Journey 🚀</h3>
-
-```text
-Programming
-    ↓
-Python & Java
-    ↓
-Web Development
-    ↓
-Database & APIs
-    ↓
-AI & Machine Learning
-    ↓
-Full Stack + AI Development
-```
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+- Gemini API
+- Markdown
+- Image Upload
 
 ---
 
@@ -132,6 +114,10 @@ Full Stack + AI Development
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -143,5 +129,5 @@ Full Stack + AI Development
 </p>
 
 <p align="center">
-✦ <b>Thanks for visiting my profile! Keep Coding 🚀</b> ✦
+✦ <b>Thanks for visiting my profile! Keep coding & keep learning 🚀</b> ✦
 </p>
