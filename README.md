@@ -1,18 +1,18 @@
 <h3>✦ About Me</h3>
 
-<h3>👋 Hi, I'm Prince Chaudhary</h3>
+<h3> Hi, I'm Prince Chaudhary</h3>
 
-<b>Developer | Problem Solver | Lifelong Learner 🚀</b>
+<b>Developer | Problem Solver | Lifelong Learner</b>
 
 I'm a passionate developer who loves building <b>useful, scalable and beautiful applications</b> and exploring how <b>AI</b> can solve real-world problems.
 
-╰┈➤ 🔭 <b>Currently working on:</b> AI Assistant</br>
+╰┈➤ <b>Currently working on:</b> AI Assistant</br>
 
-╰┈➤ 🌱 <b>Currently learning:</b> Artificial Intelligence & Machine Learning</br>
+╰┈➤ <b>Currently learning:</b> Artificial Intelligence & Machine Learning</br>
 
-╰┈➤ 💬 <b>Ask me about:</b> Python, Java, AI, Web Design & Development</br>
+╰┈➤ <b>Ask me about:</b> Python, Java, AI, Web Design & Development</br>
 
-╰┈➤ ⚡ <b>Fun fact:</b> I love turning ideas into real-world projects and learning something new every day.
+╰┈➤ <b>Fun fact:</b> I love turning ideas into real-world projects and learning something new every day.
 
 ---
 
