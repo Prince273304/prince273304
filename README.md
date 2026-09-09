@@ -4,7 +4,7 @@
      Colour mode, so one file serves both GitHub themes. Regenerate with:
        python scripts/dotify.py assets/jacket.png -o assets/portrait \
          --cols 100 --equalize --detail 0.5 --color -->
-<img src="portrait.svg" width="300" alt="Harsh Gupta, rendered as a dot matrix">
+<img src="portrait.svg" width="300" alt="Prince Chaudhary, rendered as a dot matrix">
 
 <br>
 
@@ -34,7 +34,7 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Harsh Gupta**. YOUR_ONE_LINE_BIO_HERE.
+Hi, I'm **Prince Chaudhary**. YOUR_ONE_LINE_BIO_HERE.
 - Portfolio: **[YOUR_PORTFOLIO](https://YOUR_PORTFOLIO)**
 - Learning **SKILL_ONE + SKILL_TWO**
 - Fun fact: **YOUR_FUN_FACT**
