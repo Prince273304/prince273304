@@ -60,6 +60,16 @@ I'm a passionate developer who loves building <b>useful, scalable and beautiful 
 
 ---
 
+<h3>✦ GitHub Contribution Snake</h3>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</p>
+
+---
+
 <p align="center"> 
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ff69b4&style=flat-square"/> 
